@@ -1,0 +1,33 @@
+
+/* #first img{
+    height: 430px;
+    object-fit: cover;
+    display: none;
+}*/
+body{
+    text-align: center;
+}
+button{
+padding:8px 20px ;
+border: none;
+border-left: 4px solid black;
+border-right : 4px solid black;
+margin: 24px 0;
+font-size: 20px;
+color: #f64d4d;
+background: #fff;
+
+cursor: pointer; 
+ transition: all 400 ease;
+}
+button:hover{
+    padding: 8px 36px;
+    border-left: 8px solid black;
+    border-right : 8px solid black;
+    letter-spacing: 3px;
+}
+  
+ 
+ #first{
+    display: none;
+ }
